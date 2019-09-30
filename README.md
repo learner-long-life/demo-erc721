@@ -9,6 +9,10 @@ We call the `ownerOf` method, but any of the methods are available here:
 
 http://erc721.org/
 
+## Prerequisites
+
+I use Node v11.14.0 (earlier may also work) managed by [nvm](https://github.com/nvm-sh/nvm#installation)
+
 ## How to use
 
 Clone this repo locally
