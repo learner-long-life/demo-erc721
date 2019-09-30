@@ -1,0 +1,19 @@
+{
+  "name": "demo-erc721",
+  "version": "1.0.0",
+  "description": "Winning ERC721 with Democracy.js",
+  "main": "index.js",
+  "repository": "git@github.com:cryptogoth/demo-erc721.git",
+  "author": "Paul Pham <148553+cryptogoth@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "depart": "NODE_ENV=MAINNET demo-depart"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "demo-depart": "^0.3.7",
+    "demo-tx": "^0.3.7",
+    "democracy.js": "^0.3.7",
+    "openzeppelin-solidity": "^2.3.0"
+  }
+}
